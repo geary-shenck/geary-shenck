@@ -1,6 +1,18 @@
 # Geary Shenck
 ### Student @ Codeup - Data Science
   Developed an interest in Data Science while I was working with a small team and was able to produced a business solution/savings from empirical data to create rails/range of statistically likely outcomes for data entry.
+  
+  I'm currently working on my professional development into Data Science from Design Engineering (8yrs)
+  
+  I'm currently learning many different tools for the ole' toolbox
+    - CLI
+    - SQL
+    - Python
+      - numpy
+      - pandas
+      - matplotlib
+      - seaborn
+    - DM with GitHub
 
 
 ![This is an image](https://lh3.googleusercontent.com/a-/AOh14GinmR0-9sgqb-mKgGGGYUHyl4D77xK70ct8l-i7dQ=s576-p-rw-no)
