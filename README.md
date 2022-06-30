@@ -1,5 +1,5 @@
 # Geary Shenck
-### Data Science @ Codeup - Student
+### Student @ Codeup - Data Science
   Developed an interest in Data Science while I was working with a small team and was able to produced a business solution/savings from empirical data to create rails/range of statistically likely outcomes for data entry.
 
 
