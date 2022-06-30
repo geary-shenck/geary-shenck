@@ -1,5 +1,5 @@
 # Geary Shenck
-### Student @ Codeup - Data Science
+### Student @ Codeup - Data Science (Graduate Nov 2022)
   Developed an interest in Data Science while I was working with a small team and was able to produced a business solution/savings from empirical data to create rails/range of statistically likely outcomes for data entry.
   
   I'm working on my professional development into Data Science from Design Engineering (8yrs)
