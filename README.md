@@ -4,7 +4,7 @@
   
   I'm working on my professional development into Data Science from Design Engineering (8yrs)
   
-  I'm learning utilization for new tools to add to the ole' toolbox
+  I'm learning utilization of new tools to add to the ole' toolbox
   - CLI
   - SQL
   - Python
