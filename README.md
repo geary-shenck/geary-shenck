@@ -5,13 +5,13 @@
   I'm working on my professional development into Data Science from Design Engineering (8yrs)
   
   I'm learning utilization of new tools to add to the ole' toolbox
-  - CLI
-  - SQL
+  - MySQL
   - Python
     - numpy
     - pandas
-    - matplotlib
-    - seaborn
+    - Matplotlib
+    - Seaborn
+    - Scikit-Learn
    - Data Mangement with GitHub
 
 
